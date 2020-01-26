@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a34e82a5-1f33-4313-84f1-a930dc59db61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/my_app/new_search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shawans_list/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/shawans_list/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,13 +22,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WwHUxXAr7PNT3yIr1tglRNp016" />
@@ -72,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580053756945</updated>
       <workItem from="1580055577689" duration="3163000" />
-      <workItem from="1580060501440" duration="4982000" />
+      <workItem from="1580060501440" duration="15200000" />
     </task>
     <task id="LOCAL-00001" summary="with search added">
       <created>1580065203529</created>
@@ -81,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580065203529</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="with search added">
+      <created>1580065491290</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580065491290</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
