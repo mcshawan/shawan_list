@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a34e82a5-1f33-4313-84f1-a930dc59db61" name="Default Changelist" comment="" />
+    <list default="true" id="a34e82a5-1f33-4313-84f1-a930dc59db61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_app/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_app/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_app/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shawans_list/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/shawans_list/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shawans_list/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/shawans_list/urls.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,24 +24,41 @@
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WwHUxXAr7PNT3yIr1tglRNp016" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/.conda/envs/shawans_list" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shawans_list/settings.py" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -53,28 +83,35 @@
       <option name="presentableId" value="Default" />
       <updated>1580053756945</updated>
       <workItem from="1580055577689" duration="3163000" />
+      <workItem from="1580060501440" duration="4645000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1509" y="508" key="#Notifications" timestamp="1580054414520">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1509" y="508" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1580054414520" />
-    <state x="1325" y="578" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580053779496">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1325" y="578" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1580053779496" />
-    <state x="1424" y="603" key="FileChooserDialogImpl" timestamp="1580053960660">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1424" y="603" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1580053960660" />
-    <state x="1147" y="491" key="SettingsEditor" timestamp="1580054183725">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1147" y="491" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1580054183725" />
+    <state x="1509" y="508" key="#Notifications" />
+    <state x="1509" y="508" key="#Notifications/0.0.2560.1400@0.0.2560.1400" />
+    <state x="1325" y="578" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" />
+    <state x="1325" y="578" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400@0.0.2560.1400" />
+    <state x="1424" y="603" key="FileChooserDialogImpl" />
+    <state x="1424" y="603" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" />
+    <state x="1147" y="491" key="SettingsEditor" />
+    <state x="1147" y="491" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" />
   </component>
 </project>
